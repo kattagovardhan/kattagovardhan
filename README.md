@@ -193,7 +193,7 @@ Other         █░░░░░░░░░░░░░░    5%
 
 <div align="center">
 
-📧 **govardhankatta.dev@gmail.com** &nbsp;|&nbsp; 🐙 **[github.com/KattaGovardhan](https://github.com/KattaGovardhan)** &nbsp;|&nbsp; 💼 **[linkedin.com/in/govardhan-katta](https://www.linkedin.com/in/govardhan-katta/)**
+📧 **govardhankatta.dev@gmail.com** &nbsp;|&nbsp; 🐙 **[github.com/kattagovardhan](https://github.com/kattagovardhan)** &nbsp;|&nbsp; 💼 **[linkedin.com/in/govardhan-katta](https://www.linkedin.com/in/govardhan-katta/)**
 
 > "First, solve the problem. Then, write the code." — John Johnson
 

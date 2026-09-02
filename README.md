@@ -1,202 +1,193 @@
-<!--
-  ============================================================
-  CONFIG — edit these values once, then Ctrl+F/replace them
-  everywhere else in this file. GitHub markdown can't read
-  variables, so this block is just your single source of truth
-  for what to swap when you copy-paste.
-  ============================================================
-  NAME        = Govardhan Katta
-  USERNAME    = KattaGovardhan
-  ROLE        = Backend Engineer • Full Stack Developer
-  EMAIL       = govardhankatta.dev@gmail.com
-  LINKEDIN    = govardhan-katta
-  LOCATION    = Andhra Pradesh, India
-  ACCENT      = 2563eb  (blue — used in banners/badges below)
-  ============================================================
--->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0f172a,25:1e293b,50:2563eb,75:1d4ed8,100:3b82f6&text=Govardhan%20Katta&fontAlignY=38&fontColor=ffffff&fontSize=50&desc=Backend%20Engineer%20•%20Full%20Stack%20Developer&descAlignY=58&animation=fadeIn" width="100%"/>
+# Govardhan Katta
+
+### Software Developer • Full-Stack Engineer
+
+Building reliable web applications, backend APIs, and scalable software systems.
 
 <a href="https://github.com/KattaGovardhan">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=3B82F6&center=true&vCenter=true&width=600&lines=Building+Scalable+Backend+Systems;Node.js+%7C+TypeScript+%7C+Java;System+Design+Enthusiast;600%2B+LeetCode+Problems+Solved" alt="Typing SVG" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://www.linkedin.com/in/govardhan-katta/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:govardhankatta.dev@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://leetcode.com/u/govardhankatta/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=111111" alt="LeetCode" />
 </a>
 
-<br/>
+<br />
+<br />
 
-<a href="https://github.com/KattaGovardhan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/govardhan-katta/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:govardhankatta.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://leetcode.com/u/govardhankatta/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-
-<img src="https://komarev.com/ghpvc/?username=KattaGovardhan&style=for-the-badge&color=2563eb&label=Profile+Views"/>
+<img src="https://komarev.com/ghpvc/?username=KattaGovardhan&style=flat-square&color=2563eb&label=Profile+Views" alt="Profile views" />
 
 </div>
 
-<br/>
+---
 
-## 🧑‍💻 About Me
+## About
 
-```ts
-const govardhan = {
-  location: "Andhra Pradesh, India",
-  role: "Backend Engineer / Full Stack Developer",
-  focus: ["Backend Systems", "REST APIs", "Distributed Systems"],
-  currentlyLearning: [
-    "System Design",
-    "Docker",
-    "Kubernetes",
-    "AWS",
-    "Microservices",
-  ],
-  languages: ["Java", "TypeScript", "JavaScript", "Python", "C++"],
-  leetcode: "600+ problems solved",
-  philosophy: "Build. Learn. Improve. Repeat.",
-} as const;
-```
+I'm a Computer Science graduate focused on full-stack and backend development. I enjoy turning ideas into production-oriented applications, designing REST APIs, working with databases, and learning how to build software that remains maintainable as it grows.
 
-<br/>
+My current focus is backend engineering, system design, and writing clean, dependable software with JavaScript/TypeScript and Java.
 
-## 🛠️ Tech Stack
+- 💻 Full-stack development with React, Next.js, Node.js, and TypeScript
+- 🧩 Backend development with Node.js, Express, REST APIs, MongoDB, Redis, and JWT authentication
+- ☕ Strong interest in Java, backend architecture, and system design
+- 🧠 600+ LeetCode problems solved
+- 🚀 Interested in product engineering, scalable systems, and developer tools
+- 📍 Andhra Pradesh, India
+
+---
+
+## Tech Stack
 
 <div align="center">
 
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=java,ts,js,python,cpp"/>
+### Languages
+<img src="https://skillicons.dev/icons?i=java,ts,js,python,cpp" alt="Languages" />
 
-**Frontend**
-<br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind"/>
+### Frontend
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" alt="Frontend technologies" />
 
-**Backend**
-<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs"/>
+### Backend & APIs
+<img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend technologies" />
 
-**Database**
-<br/>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,redis"/>
+### Databases & Infrastructure
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,redis,docker,aws" alt="Databases and infrastructure" />
 
-**Cloud & DevOps**
-<br/>
-<img src="https://skillicons.dev/icons?i=docker,aws,githubactions,vercel,linux"/>
-
-**Tools**
-<br/>
-<img src="https://skillicons.dev/icons?i=vscode,git,postman,figma,npm"/>
+### Developer Tools
+<img src="https://skillicons.dev/icons?i=git,githubactions,postman,vscode,figma,vercel" alt="Developer tools" />
 
 </div>
 
-<br/>
+---
 
-## 📊 GitHub Analytics
+## Featured Projects
 
-<div align="center">
-
-<!-- <img height="165" src="https://github-readme-stats.vercel.app/api?username=KattaGovardhan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KattaGovardhan&layout=compact&theme=tokyonight&hide_border=true"/> -->
-
-<img src="https://streak-stats.demolab.com?user=KattaGovardhan&theme=tokyonight&hide_border=true"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KattaGovardhan&theme=tokyo-night&hide_border=true" width="100%"/>
-
-<!-- <img src="https://github-profile-trophy.vercel.app/?username=KattaGovardhan&theme=tokyonight&no-frame=true&row=1&column=6" width="100%"/> -->
-
-</div>
-
-<br/>
-
-## 🚀 Featured Projects
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### 🔐 AuthX
-
-Full-stack authentication system with JWT, OAuth 2.0 (Google/GitHub), account linking, and refresh-token rotation.
-
-`TypeScript` `Node.js` `Redis` `MongoDB`
-
-</td>
-<td width="50%" valign="top">
+<table>
+  <tr>
+    <td width="50%" valign="top">
 
 ### 💼 Job Application Tracker
 
-Security-focused MERN app to manage job applications with JWT auth and analytics dashboard.
+A full-stack application for managing job applications, tracking progress, and viewing application statistics.
 
-`React` `Node.js` `Express` `MongoDB`
+**Stack:** React, Vite, Tailwind CSS, shadcn/ui, Node.js, Express, MongoDB, JWT
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<a href="https://github.com/KattaGovardhan/job-tracker">View repository →</a>
 
-### 🌐 Distributed API Gateway
+    </td>
+    <td width="50%" valign="top">
 
-Reverse proxy with rate limiting, circuit breaker pattern, and Prometheus/Grafana observability.
+### 🔐 Auth System
 
-`Node.js` `Redis` `Prometheus` `Grafana`
+An authentication-focused backend project exploring secure account flows, token-based authentication, and session management.
 
-</td>
-<td width="50%" valign="top">
+**Stack:** Node.js, Express, MongoDB, Redis, JWT
 
-### 🩺 Skin Cancer Detection
+<a href="https://github.com/KattaGovardhan/auth-system">View repository →</a>
 
-CNN-based image classifier for early skin cancer detection.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
 
-`TensorFlow` `OpenCV` `Python`
+### 🤖 AI Resume Analyzer
 
-</td>
-</tr>
+An AI-powered project focused on analyzing resumes and producing useful feedback through modern web technologies and LLM integrations.
+
+**Stack:** Next.js, TypeScript, MongoDB, AI/LLM APIs
+
+<a href="https://github.com/KattaGovardhan/ai-resume-analyzer">View repository →</a>
+
+    </td>
+    <td width="50%" valign="top">
+
+### 🧠 LeetCode Solutions
+
+A growing collection of DSA solutions covering common problem-solving patterns and interview preparation topics.
+
+**Focus:** Data Structures, Algorithms, Problem Solving, Interview Preparation
+
+<a href="https://github.com/KattaGovardhan/LeetCode_Solutions">View repository →</a>
+
+    </td>
+  </tr>
 </table>
 
-<br/>
+---
 
-## ⏳ Coding Activity
-
-<!--START_SECTION:waka-->
+## Currently Learning
 
 ```text
-TypeScript    ████████████░░░░   48%
-Java          ██████░░░░░░░░░   24%
-React         ████░░░░░░░░░░░   14%
-Node.js       ██░░░░░░░░░░░░░    9%
-Other         █░░░░░░░░░░░░░░    5%
+System Design        ███████████████░░░  Deepening
+Backend Architecture  ██████████████░░░░  Deepening
+Java / Spring Boot    ████████████░░░░░░  Building
+Docker & AWS          ██████████░░░░░░░░  Exploring
+Microservices         █████████░░░░░░░░░  Exploring
 ```
 
-<!--END_SECTION:waka-->
+I am especially interested in distributed systems, API design, authentication, caching, observability, and the engineering trade-offs behind scalable applications.
 
-<br/>
+---
 
-## 🎯 2026 Goals
-
-- [ ] Crack a product-based company role
-- [ ] Reach 1000+ LeetCode problems
-- [ ] Master System Design (HLD + LLD)
-- [ ] Ship a production SaaS product
-- [ ] Contribute to open-source (auth libraries)
-- [ ] Learn Docker, Kubernetes & AWS
-
-<br/>
-
-## 🐍 Contribution Snake
+## Problem Solving
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/KattaGovardhan/KattaGovardhan/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%"/>
+
+<a href="https://leetcode.com/u/govardhankatta/">
+  <img src="https://img.shields.io/badge/LeetCode-600%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=111111" alt="600+ LeetCode problems" />
+</a>
+
 </div>
 
-<br/>
+I use competitive programming and structured DSA practice to strengthen problem-solving, algorithmic thinking, and interview readiness.
 
-## 📬 Let's Connect
+---
+
+## GitHub Activity
 
 <div align="center">
 
-📧 **govardhankatta.dev@gmail.com** &nbsp;|&nbsp; 🐙 **[github.com/kattagovardhan](https://github.com/kattagovardhan)** &nbsp;|&nbsp; 💼 **[linkedin.com/in/govardhan-katta](https://www.linkedin.com/in/govardhan-katta/)**
+<img src="https://streak-stats.demolab.com?user=KattaGovardhan&theme=transparent&hide_border=true" alt="GitHub streak" />
 
-> "First, solve the problem. Then, write the code." — John Johnson
+<br />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:2563eb,100:0f172a" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KattaGovardhan&theme=github-compact&hide_border=true" width="100%" alt="GitHub activity graph" />
+
+</div>
+
+---
+
+## 2026 Focus
+
+- Build production-quality backend systems
+- Strengthen HLD and LLD fundamentals
+- Grow deeper with Java and Spring Boot
+- Improve cloud, containerization, and deployment skills
+- Ship practical products that solve real problems
+- Contribute more consistently to open source
+
+---
+
+## Let's Connect
+
+I'm open to opportunities, interesting engineering conversations, collaborations, and software projects.
+
+<div align="center">
+
+<a href="mailto:govardhankatta.dev@gmail.com">Email</a> •
+<a href="https://www.linkedin.com/in/govardhan-katta/">LinkedIn</a> •
+<a href="https://github.com/KattaGovardhan">GitHub</a> •
+<a href="https://leetcode.com/u/govardhankatta/">LeetCode</a>
+
+<br />
+<br />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:111827,100:2563eb" width="100%" alt="Footer" />
 
 </div>

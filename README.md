@@ -1,167 +1,127 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=2563eb" width="100%" alt="" />
-
 # Govardhan Katta
 
-**Software Developer · Full-Stack & Backend**
+### Software Developer · Full-Stack Engineer
 
-Designing and building practical products with modern web technologies, strong backend fundamentals, and a growing focus on scalable systems.
-
-<br />
-
-<a href="https://github.com/KattaGovardhan">
-<img src="https://img.shields.io/badge/View%20GitHub-18181b?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub" />
-</a>
-<a href="https://www.linkedin.com/in/govardhan-katta/">
-<img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-2563eb?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
-</a>
-<a href="mailto:govardhankatta.dev@gmail.com">
-<img src="https://img.shields.io/badge/Get%20in%20Touch-18181b?style=for-the-badge&logo=gmail&logoColor=white" alt="Get in touch" />
-</a>
+Building practical products with a strong focus on backend engineering, APIs, authentication, and scalable systems.
 
 <br />
-<br />
 
-<img src="https://komarev.com/ghpvc/?username=KattaGovardhan&style=flat-square&color=2563eb&label=Profile+Views" alt="Profile views" />
+<a href="https://github.com/KattaGovardhan"><img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/govardhan-katta/"><img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:govardhankatta.dev@gmail.com"><img src="https://img.shields.io/badge/Email-18181B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://leetcode.com/u/govardhankatta/"><img src="https://img.shields.io/badge/LeetCode-18181B?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode" /></a>
+
+<br /><br />
+
+<img src="https://komarev.com/ghpvc/?username=KattaGovardhan&style=flat-square&color=2563EB&label=Profile+Views" alt="Profile views" />
 
 </div>
 
 ---
 
-## About Me
+## Profile
 
-I'm a Computer Science graduate and software developer who enjoys building complete products — from responsive interfaces to backend APIs, authentication, databases, and deployment.
+I'm a Computer Science graduate and software developer who enjoys taking a product from idea to implementation — designing the interface, building the API, modeling the data, securing the application, and getting it running.
 
-My strongest interests are **backend engineering, system design, developer tooling, and product development**. I care about understanding the trade-offs behind a system rather than simply making something work.
+I’m particularly interested in **backend engineering, system design, authentication, databases, and developer-focused products**. I also spend significant time on DSA to keep my problem-solving fundamentals sharp.
 
 <div align="center">
 
-| | | |
+| **600+** | **Full-Stack** | **Backend Focus** |
 |:---:|:---:|:---:|
-| **600+** | **Full-Stack** | **Backend** |
-| LeetCode Problems | React · Next.js · Node.js | APIs · Auth · Redis |
+| LeetCode problems | React · Next.js · Node.js | APIs · Auth · Redis |
 
 </div>
 
 ---
 
-## What I Build
+## Core Toolkit
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-### Backend Systems
+**Languages**  
+Java · TypeScript · JavaScript · Python · C++
 
-REST APIs, authentication, authorization, database design, caching, sessions, validation, and service architecture.
+**Frontend**  
+React · Next.js · Tailwind CSS · HTML · CSS
 
-</td>
-<td width="33%" valign="top">
-
-### Product Interfaces
-
-Responsive applications with React, Next.js, TypeScript, Tailwind CSS, and component-driven UI systems.
+**Backend**  
+Node.js · Express · REST APIs · JWT
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-### Engineering
+**Data**  
+MongoDB · MySQL · Redis
 
-Data structures, algorithms, clean code, OOP, system design, Docker, CI/CD, and cloud fundamentals.
+**Infrastructure**  
+Docker · AWS · GitHub Actions · Linux
+
+**Tools**  
+Git · GitHub · Postman · VS Code · Figma · Vercel
 
 </td>
 </tr>
 </table>
-
----
-
-## Technology
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,ts,js,python,cpp,react,nextjs,nodejs,express,mongodb,mysql,redis,docker,aws,git,githubactions,postman,vscode" alt="Technology stack" />
-
+<img src="https://skillicons.dev/icons?i=java,ts,js,python,cpp,react,nextjs,nodejs,express,mongodb,mysql,redis,docker,aws,git,githubactions" alt="Technology stack" />
 </div>
 
 ---
 
-## Selected Work
+## Featured Work
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<h3>Job Application Tracker</h3>
+### Job Application Tracker
 
-A full-stack application for managing job applications, tracking stages, searching and filtering opportunities, and understanding application progress through analytics.
+A full-stack application for managing job applications, tracking stages, searching opportunities, and understanding progress through analytics.
 
-**Technology**  
-React · Vite · Tailwind · shadcn/ui  
-Node.js · Express · MongoDB · JWT
+`React` `Node.js` `Express` `MongoDB` `JWT`
 
-**Built around**  
-Authentication · REST APIs · CRUD · Analytics
-
-<a href="https://github.com/KattaGovardhan/job-tracker">
-<img src="https://img.shields.io/badge/View%20Project-2563eb?style=for-the-badge&logo=github&logoColor=white" alt="View Job Tracker" />
-</a>
+<a href="https://github.com/KattaGovardhan/job-tracker"><img src="https://img.shields.io/badge/Repository-2563EB?style=flat-square&logo=github&logoColor=white" alt="Job Tracker repository" /></a>
 
 </td>
 <td width="50%" valign="top">
 
-<h3>Auth System</h3>
+### Auth System
 
-A backend-focused authentication project exploring secure user flows, JWT authentication, refresh-token handling, and Redis-backed session infrastructure.
+A backend-focused authentication system exploring secure user flows, JWT authentication, refresh-token handling, and Redis-backed session infrastructure.
 
-**Technology**  
-Node.js · Express · MongoDB  
-Redis · JWT
+`Node.js` `Express` `MongoDB` `Redis`
 
-**Built around**  
-Authentication · Sessions · Security · Backend architecture
-
-<a href="https://github.com/KattaGovardhan/auth-system">
-<img src="https://img.shields.io/badge/View%20Project-2563eb?style=for-the-badge&logo=github&logoColor=white" alt="View Auth System" />
-</a>
+<a href="https://github.com/KattaGovardhan/auth-system"><img src="https://img.shields.io/badge/Repository-2563EB?style=flat-square&logo=github&logoColor=white" alt="Auth System repository" /></a>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-<h3>AI Resume Analyzer</h3>
+### AI Resume Analyzer
 
-An AI-powered application exploring automated resume analysis and actionable feedback using modern web technologies and LLM integrations.
+An AI-powered application exploring automated resume analysis and useful feedback through modern web technologies and LLM integrations.
 
-**Technology**  
-Next.js · TypeScript · MongoDB  
-AI / LLM APIs
+`Next.js` `TypeScript` `MongoDB` `AI / LLM APIs`
 
-**Built around**  
-AI integration · Product engineering · Full-stack development
-
-<a href="https://github.com/KattaGovardhan/ai-resume-analyzer">
-<img src="https://img.shields.io/badge/View%20Project-2563eb?style=for-the-badge&logo=github&logoColor=white" alt="View AI Resume Analyzer" />
-</a>
+<a href="https://github.com/KattaGovardhan/ai-resume-analyzer"><img src="https://img.shields.io/badge/Repository-2563EB?style=flat-square&logo=github&logoColor=white" alt="AI Resume Analyzer repository" /></a>
 
 </td>
 <td width="50%" valign="top">
 
-<h3>DSA & Problem Solving</h3>
+### DSA & Problem Solving
 
-A growing collection of solutions built through consistent algorithm practice, covering common interview patterns and core data structures.
+A growing collection of algorithmic solutions maintained through consistent interview preparation and problem-solving practice.
 
-**Focus**  
-Arrays · Strings · Trees · Graphs  
-Dynamic Programming · Algorithms
+`Algorithms` `Data Structures` `DP` `Trees` `Graphs`
 
-**Progress**  
-600+ LeetCode problems solved
-
-<a href="https://github.com/KattaGovardhan/LeetCode_Solutions">
-<img src="https://img.shields.io/badge/View%20Solutions-18181b?style=for-the-badge&logo=github&logoColor=white" alt="View DSA solutions" />
-</a>
+<a href="https://github.com/KattaGovardhan/LeetCode_Solutions"><img src="https://img.shields.io/badge/Solutions-18181B?style=flat-square&logo=github&logoColor=white" alt="DSA solutions" /></a>
 
 </td>
 </tr>
@@ -169,15 +129,27 @@ Dynamic Programming · Algorithms
 
 ---
 
-## Current Direction
+## Engineering Interests
 
-I'm going deeper into the parts of software engineering that become important as applications grow:
+**Backend architecture** · **API design** · **Authentication & sessions** · **Redis & caching** · **Database design** · **System design** · **Distributed systems** · **Observability** · **Developer tooling**
 
-- **Java & Spring Boot** — building stronger enterprise/backend foundations
-- **System Design** — HLD, LLD, APIs, databases, caching, and distributed systems
-- **Infrastructure** — Docker, AWS, CI/CD, and deployment workflows
-- **Architecture** — microservices, observability, resilience, and scalability
-- **Product Engineering** — turning useful ideas into polished, maintainable products
+I enjoy projects where the interesting part is not only the UI, but the decisions underneath it: data models, API boundaries, failure handling, security, performance, and maintainability.
+
+---
+
+## What I'm Working Toward
+
+**Java + Spring Boot**  
+Strengthening my Java backend ecosystem and building production-oriented services.
+
+**System Design**  
+Going deeper into HLD, LLD, distributed systems, scalability, caching, and reliability.
+
+**Cloud & Infrastructure**  
+Building stronger practical knowledge of Docker, AWS, CI/CD, and deployment.
+
+**Product Engineering**  
+Shipping useful products rather than building projects only for demonstration.
 
 ---
 
@@ -185,16 +157,9 @@ I'm going deeper into the parts of software engineering that become important as
 
 <div align="center">
 
-<a href="https://leetcode.com/u/govardhankatta/">
-<img src="https://img.shields.io/badge/600%2B%20Problems%20Solved-18181b?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="600+ LeetCode problems" />
-</a>
+<a href="https://leetcode.com/u/govardhankatta/"><img src="https://img.shields.io/badge/600%2B%20Problems%20Solved-18181B?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="600+ LeetCode problems" /></a>
 
-<br />
-<br />
-
-<strong>Consistent problem solving is one of the ways I sharpen my engineering thinking.</strong>
-
-<br />
+<br /><br />
 
 Complexity analysis · Pattern recognition · Data structures · Algorithms
 
@@ -218,33 +183,21 @@ Complexity analysis · Pattern recognition · Data structures · Algorithms
 
 <div align="center">
 
-## Let's Build Something Useful
+## Open to Good Problems
 
-I'm interested in **software engineering opportunities, product development, backend systems, and meaningful collaborations**.
+If you're hiring for software engineering, building a product, or working on an interesting technical problem, I'd be happy to talk.
 
-<br />
+<br /><br />
 
-<a href="mailto:govardhankatta.dev@gmail.com">
-<img src="https://img.shields.io/badge/Start%20a%20Conversation-2563eb?style=for-the-badge&logo=gmail&logoColor=white" alt="Start a conversation" />
-</a>
-<a href="https://www.linkedin.com/in/govardhan-katta/">
-<img src="https://img.shields.io/badge/Let's%20Connect-18181b?style=for-the-badge&logo=linkedin&logoColor=white" alt="Let's connect" />
-</a>
+<a href="mailto:govardhankatta.dev@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" /></a>
+<a href="https://www.linkedin.com/in/govardhan-katta/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-18181B?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
 
-<br />
-<br />
+<br /><br />
 
-<a href="https://github.com/KattaGovardhan">GitHub</a>
-&nbsp; · &nbsp;
-<a href="https://www.linkedin.com/in/govardhan-katta/">LinkedIn</a>
-&nbsp; · &nbsp;
-<a href="https://leetcode.com/u/govardhankatta/">LeetCode</a>
-&nbsp; · &nbsp;
-<a href="mailto:govardhankatta.dev@gmail.com">Email</a>
+<a href="https://github.com/KattaGovardhan">GitHub</a> · <a href="https://www.linkedin.com/in/govardhan-katta/">LinkedIn</a> · <a href="https://leetcode.com/u/govardhankatta/">LeetCode</a> · <a href="mailto:govardhankatta.dev@gmail.com">Email</a>
 
-<br />
-<br />
+<br /><br />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=2563eb" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=2563EB" width="100%" alt="" />
 
 </div>

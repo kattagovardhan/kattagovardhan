@@ -13,7 +13,7 @@ Building practical products with a strong focus on backend engineering, APIs, au
 <a href="mailto:govardhankatta.dev@gmail.com"><img src="https://img.shields.io/badge/Email-18181B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://leetcode.com/u/govardhankatta/"><img src="https://img.shields.io/badge/LeetCode-18181B?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode" /></a>
 
-<br /><br />
+<br />
 
 <img src="https://komarev.com/ghpvc/?username=KattaGovardhan&style=flat-square&color=2563EB&label=Profile+Views" alt="Profile views" />
 
@@ -159,7 +159,7 @@ Shipping useful products rather than building projects only for demonstration.
 
 <a href="https://leetcode.com/u/govardhankatta/"><img src="https://img.shields.io/badge/600%2B%20Problems%20Solved-18181B?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="600+ LeetCode problems" /></a>
 
-<br /><br />
+<br />
 
 Complexity analysis · Pattern recognition · Data structures · Algorithms
 
@@ -187,16 +187,16 @@ Complexity analysis · Pattern recognition · Data structures · Algorithms
 
 If you're hiring for software engineering, building a product, or working on an interesting technical problem, I'd be happy to talk.
 
-<br /><br />
+<br />
 
 <a href="mailto:govardhankatta.dev@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" /></a>
 <a href="https://www.linkedin.com/in/govardhan-katta/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-18181B?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
 
-<br /><br />
+<br />
 
 <a href="https://github.com/KattaGovardhan">GitHub</a> · <a href="https://www.linkedin.com/in/govardhan-katta/">LinkedIn</a> · <a href="https://leetcode.com/u/govardhankatta/">LeetCode</a> · <a href="mailto:govardhankatta.dev@gmail.com">Email</a>
 
-<br /><br />
+<br />
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=2563EB" width="100%" alt="" />
 
